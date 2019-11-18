@@ -19,5 +19,5 @@ spec:
       paths:
       - path: /
         backend:
-          serviceName: podinfo
+          serviceName: metrics-demo
           servicePort: 9898
