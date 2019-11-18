@@ -1,0 +1,1 @@
+{"jobID":"e0dd4a71-d596-ffe9-14a4-4d672a233d07","spec":{"type":"policy","cause":{"Message":"","User":"Anwar Chirakkattil \u003cachirakkattil@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
